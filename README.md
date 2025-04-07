@@ -65,8 +65,7 @@ Here's a summary of my technical skills:
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedInProfile-blue?logo=linkedin)](https://www.linkedin.com/in/rajat-kumar-b1baa0264/)
 * [![Instagram](https://img.shields.io/badge/Instagram-InstagramProfile-E4405F?logo=instagram)](https://www.instagram.com/rjd_01_/)
-* [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:rajatdahiya378@gmail.com)
-
+ 
 
 ## Acknowledgements
 
