@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Data Science and Artificial Intelligence Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfileURL-blue?logo=linkedin)](www.linkedin.com/in/rajat-kumar-b1baa0264)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfileURL-blue?logo=linkedin)](https://www.linkedin.com/in/rajat-kumar-b1baa0264/)
 [![Instagram](https://img.shields.io/badge/Instagram-YourInstagramUsername-E4405F?logo=instagram)](https://www.instagram.com/rjd_01_/)
 
 **Welcome to my Data Science and Artificial Intelligence portfolio!**
