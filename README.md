@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 # Data Science and Artificial Intelligence Portfolio
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/graphs/commit-activity)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfileURL-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/)
-[![Portfolio](https://img.shields.io/badge/Website-YourPortfolioURL-lightgrey?logo=web)](YOUR_PORTFOLIO_URL)
+(https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/graphs/commit-activity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfileURL-blue?logo=linkedin)](www.linkedin.com/in/rajat-kumar-b1baa0264)
+[![Instagram](https://img.shields.io/badge/Instagram-YourInstagramUsername-E4405F?logo=instagram)](https://www.instagram.com/rjd_01_/)
 
 **Welcome to my Data Science and Artificial Intelligence portfolio!**
 
