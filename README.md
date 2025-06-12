@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-# This repository showcases my journey and projects in the exciting fields of Data Science and Artificial Intelligence. As a student passionate about extracting insights from data and building intelligent systems, I am constantly learning and applying my skills to solve real-world problems.
+### This repository showcases my journey and projects in the exciting fields of Data Science and Artificial Intelligence. As a student passionate about extracting insights from data and building intelligent systems, I am constantly learning and applying my skills to solve real-world problems.
 
 
 ## About Me
